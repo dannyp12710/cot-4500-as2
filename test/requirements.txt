@@ -1,1 +1,3 @@
-pip freeze > requirements.txt
+import numpy as np
+
+# Still Confused on how to make and do a requirments.txt file but I used nummpy 
